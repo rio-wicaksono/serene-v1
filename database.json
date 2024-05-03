@@ -1,0 +1,255 @@
+{
+  "users": {
+    "6285880029379@s.whatsapp.net": {
+      "exp": 1542,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "¥",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    },
+    "6285179679994@s.whatsapp.net": {
+      "exp": 34,
+      "coin": 0,
+      "diamond": 69,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "FERN-MD",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novice",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "id",
+      "prem": false,
+      "premiumTime": 0
+    }
+  },
+  "chats": {
+    "6285880029379@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    },
+    "120363259120560817@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": true,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": false,
+      "captcha": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    }
+  },
+  "stats": {
+    "main-menu.js": {
+      "total": 20,
+      "success": 20,
+      "last": 1711427098648,
+      "lastSuccess": 1711427098648
+    },
+    "dl-play.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1711426465833,
+      "lastSuccess": 1711426465833
+    },
+    "_openai-ai.js": {
+      "total": 4,
+      "success": 3,
+      "last": 1711426550440,
+      "lastSuccess": 1711426550440
+    },
+    "gp-warning.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1711415822937,
+      "lastSuccess": 1711415822937
+    },
+    "gp-promote.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1711415801509,
+      "lastSuccess": 1711415801509
+    },
+    "savefile.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1711426282771,
+      "lastSuccess": 1711426282771
+    },
+    "_mj.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1711426648703,
+      "lastSuccess": 1711426648703
+    },
+    "_pairing.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1711426679431,
+      "lastSuccess": 1711426679431
+    },
+    "bebot-bebot.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1711426660302,
+      "lastSuccess": 1711426660302
+    },
+    "tools-fetch.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1711425754236,
+      "lastSuccess": 1711425754236
+    },
+    "sticker-quotly.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1711425854049,
+      "lastSuccess": 1711425854049
+    },
+    "owner-getfile.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1711426059080,
+      "lastSuccess": 1711426059080
+    },
+    "img-pinterest.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1711426431947,
+      "lastSuccess": 1711426431947
+    },
+    "sticker-sticker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1711426437277,
+      "lastSuccess": 1711426437277
+    },
+    "sticker-toimg.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1711426448251,
+      "lastSuccess": 1711426448251
+    },
+    "dl-tiktok.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1711426494073,
+      "lastSuccess": 1711426494073
+    },
+    "dl-instagram.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1711426508798,
+      "lastSuccess": 1711426508798
+    },
+    "dl-facebook.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1711426518215,
+      "lastSuccess": 1711426518215
+    },
+    "_spotify-dl.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1711426539887,
+      "lastSuccess": 1711426539887
+    },
+    "_openai-bard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1711426558591,
+      "lastSuccess": 1711426558591
+    },
+    "_openai-bing.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1711426595085,
+      "lastSuccess": 0
+    },
+    "enable.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1711426770734,
+      "lastSuccess": 1711426770734
+    },
+    "info-totalfitur.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1711426981508,
+      "lastSuccess": 1711426981508
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6285179679994@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "restrict": false,
+      "pconly": false,
+      "gconly": false,
+      "status": 0
+    }
+  }
+}
